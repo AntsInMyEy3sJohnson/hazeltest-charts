@@ -3,7 +3,17 @@ entries:
   hazeltest:
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2022-08-10T13:52:26.290288+02:00"
+    created: "2022-08-22T14:35:44.775137+02:00"
+    description: A Helm chart for deploying Hazeltest on Kubernetes
+    digest: e16153a4b375b1652d5e7e02593fc568f9bf63f25156e6050353c35c749a6b52
+    name: hazeltest
+    type: application
+    urls:
+    - hazeltest-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v2
+    appVersion: 0.5.2
+    created: "2022-08-22T14:35:44.774521+02:00"
     description: A Helm chart for deploying Hazeltest on Kubernetes
     digest: 1cd08f555dba4edefa7a0a93ff6823152384f8b49be3e92a42eb375541655564
     name: hazeltest
@@ -11,4 +21,4 @@ entries:
     urls:
     - hazeltest-1.1.0.tgz
     version: 1.1.0
-generated: "2022-08-10T13:52:26.286243+02:00"
+generated: "2022-08-22T14:35:44.773809+02:00"
