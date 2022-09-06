@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  bananenbrot:
+  - apiVersion: v2
+    appVersion: 0.5.3
+    created: "2022-09-06T09:23:40.743891+02:00"
+    description: A Helm chart for deploying Hazeltest on Kubernetes
+    digest: 45120fd5c462d2eb8e1bca70cdb3c595ddabb7c8b89ec36b4ae72efcca8a733a
+    name: bananenbrot
+    type: application
+    urls:
+    - bananenbrot-1.2.1.tgz
+    version: 1.2.1
   hazeltest:
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2022-08-22T15:14:53.093659+02:00"
+    created: "2022-09-06T09:23:40.747048+02:00"
     description: A Helm chart for deploying Hazeltest on Kubernetes
     digest: 292046bd83f3cbc912ab446fc80f954579d6366c2fcc731fc21147ad6784e96e
     name: hazeltest
@@ -13,7 +24,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2022-08-22T15:14:53.092727+02:00"
+    created: "2022-09-06T09:23:40.745978+02:00"
     description: A Helm chart for deploying Hazeltest on Kubernetes
     digest: e16153a4b375b1652d5e7e02593fc568f9bf63f25156e6050353c35c749a6b52
     name: hazeltest
@@ -23,7 +34,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2022-08-22T15:14:53.091646+02:00"
+    created: "2022-09-06T09:23:40.745018+02:00"
     description: A Helm chart for deploying Hazeltest on Kubernetes
     digest: 1cd08f555dba4edefa7a0a93ff6823152384f8b49be3e92a42eb375541655564
     name: hazeltest
@@ -31,4 +42,4 @@ entries:
     urls:
     - hazeltest-1.1.0.tgz
     version: 1.1.0
-generated: "2022-08-22T15:14:53.090864+02:00"
+generated: "2022-09-06T09:23:40.743156+02:00"
