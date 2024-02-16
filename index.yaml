@@ -2,28 +2,18 @@ apiVersion: v1
 entries:
   hazeltest:
   - apiVersion: v2
-    appVersion: 0.9.0
-    created: "2023-11-09T14:09:45.462659+01:00"
+    appVersion: 0.10.1
+    created: "2024-02-16T10:14:11.412893+01:00"
     description: A Helm chart for deploying Hazeltest on Kubernetes
-    digest: 03c3a4521c383fce9e7cd4aa8d16c579a1623c5e4b6676929dc2030e00e352c9
+    digest: a0d26e3ab792f280cab4715c7f1c223bbb6a3c44d7e137d847147571b17884e8
     name: hazeltest
     type: application
     urls:
-    - hazeltest-2.1.0.tgz
-    version: 2.1.0
+    - hazeltest-1.2.1.tgz
+    version: 1.2.1
   - apiVersion: v2
     appVersion: 0.8.0
-    created: "2023-11-09T14:09:45.46058+01:00"
-    description: A Helm chart for deploying Hazeltest on Kubernetes
-    digest: 5a4b39fdf96bd47a6a931df3907b3628a9da57f98f631a65cad0f709e8f96777
-    name: hazeltest
-    type: application
-    urls:
-    - hazeltest-2.0.7.tgz
-    version: 2.0.7
-  - apiVersion: v2
-    appVersion: 0.8.0
-    created: "2023-11-09T14:09:45.459357+01:00"
+    created: "2024-02-16T10:14:11.412374+01:00"
     description: A Helm chart for deploying Hazeltest on Kubernetes
     digest: 2c302cc16241cbdebcc71f840962cea5e8781de235cf38d37a30d8f0101ac03c
     name: hazeltest
@@ -33,7 +23,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2023-11-09T14:09:45.458034+01:00"
+    created: "2024-02-16T10:14:11.411943+01:00"
     description: A Helm chart for deploying Hazeltest on Kubernetes
     digest: e16153a4b375b1652d5e7e02593fc568f9bf63f25156e6050353c35c749a6b52
     name: hazeltest
@@ -43,7 +33,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2023-11-09T14:09:45.456987+01:00"
+    created: "2024-02-16T10:14:11.411585+01:00"
     description: A Helm chart for deploying Hazeltest on Kubernetes
     digest: 1cd08f555dba4edefa7a0a93ff6823152384f8b49be3e92a42eb375541655564
     name: hazeltest
@@ -51,4 +41,4 @@ entries:
     urls:
     - hazeltest-1.1.0.tgz
     version: 1.1.0
-generated: "2023-11-09T14:09:45.455103+01:00"
+generated: "2024-02-16T10:14:11.411041+01:00"
