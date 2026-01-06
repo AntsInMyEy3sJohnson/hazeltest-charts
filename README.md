@@ -30,7 +30,7 @@ helm search repo hazeltest
 Sample output:
 ```bash
 NAME               	CHART VERSION	APP VERSION	DESCRIPTION
-hazeltest/hazeltest	1.3.0        	0.16.0     	A Helm chart for deploying Hazeltest on Kubernetes
+hazeltest/hazeltest	1.3.2        	0.18.0     	A Helm chart for deploying Hazeltest on Kubernetes
 ```
 
 Or, in case you would like to review the complete list of chart versions available in this repository, and then pick one from the list:
