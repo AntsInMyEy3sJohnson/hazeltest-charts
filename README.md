@@ -42,6 +42,8 @@ Which would then give you something like the following:
 
 ```bash
 NAME               	CHART VERSION	APP VERSION	DESCRIPTION
+hazeltest/hazeltest	1.3.2        	0.18.0     	A Helm chart for deploying Hazeltest on Kubernetes
+hazeltest/hazeltest	1.3.1        	0.16.1     	A Helm chart for deploying Hazeltest on Kubernetes
 hazeltest/hazeltest	1.3.0        	0.16.0     	A Helm chart for deploying Hazeltest on Kubernetes
 hazeltest/hazeltest	1.2.1        	0.10.1     	A Helm chart for deploying Hazeltest on Kubernetes
 hazeltest/hazeltest	1.2.0        	0.8.0      	A Helm chart for deploying Hazeltest on Kubernetes
